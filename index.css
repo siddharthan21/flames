@@ -1,0 +1,50 @@
+body{
+    background-color: #000000;
+}
+.box{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 4rem;
+    width: 25em;
+ background-color: whitesmoke;
+    border-radius: 10px;
+    height: 400px;
+}
+h1{
+    text-align: center;
+    letter-spacing: 1em;
+    color: cornflowerblue;
+    margin-left: 5.5rem;
+    margin-top: 5rem ;
+}
+input{
+    
+    border: none;
+    outline: none;
+    border-style: solid;
+    border-top: none;
+    border-right:none;
+    border-left: none;
+    border-bottom-style:dashed;
+    border-bottom-color:violet;
+    border-collapse: separate;
+    text-decoration:wavy;
+    text-align:center;
+    padding-right: 6rem;
+    color:black;
+    font-style:italic;
+}
+.yn{
+    margin-top: 7rem;
+}
+button{
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-right: 6rem;
+    background-color:antiquewhite;
+    color: blueviolet;
+    border: none;
+    padding: 2%;
+    border-radius: 1rem;
+}
